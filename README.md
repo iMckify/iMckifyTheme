@@ -6,4 +6,6 @@ If the irritating developer-mode pop-up appears on the upper right Chrome browse
 For this case, please follow this tutorial: https://stackoverflow.com/a/38011386. 
 If still not working properly, apply changes listed in a more advanced tutorial here: https://stackoverflow.com/a/46362471.
 
+Official Red-Black Shards extension for Chrome browser can be found here: https://chrome.google.com/webstore/detail/black-red-shards/jpjlkkaalgfbbegfnjoclhfidancjpch?hl=en-GB
+
 Enjoy!
